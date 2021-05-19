@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='splitio-toolbox',
+    name='splitioToolbox',
     version='0.0.1',
     description='my set of tools for splitio python testing',
-    url='git@github.com:agustinona/python-mytoolbox',
+    url='git@github.com:agustinona/python-mytoolbox.git',
     author='Agustin Ona',
     author_email='agustinona@gmail.com',
     license='unlicense',
-    packages=['splitio-toolbox'],
+    packages=['splitioToolbox'],
     zip_safe=False
 )
