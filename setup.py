@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='splitioToolbox',
-    version='0.0.1',
+    version='0.0.2',
     description='my set of tools for splitio python testing',
     url='git@github.com:agustinona/python-mytoolbox.git',
     author='Agustin Ona',
